@@ -2,6 +2,10 @@
 
 Welcome to the Netflix Clone repository! This repository contains the code for a simple Netflix-like web page, and enjoy a Netflix-like experience.
 
+![Netflix Clone](156505537-8e28ee14-dd20-4299-9eea-984d7068c7fd.png)
+
+
+
 ## Project Overview
 
 This project is a front-end web page built using HTML, CSS, and JavaScript. It replicates the main features of the Netflix website and provides a similar user experience. The page includes a hero section with a background video, features section showcasing key functionalities, and a Frequently Asked Questions (FAQ) section. Users can interact with the FAQ section to reveal answers to common queries.
