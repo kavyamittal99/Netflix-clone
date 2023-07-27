@@ -22,3 +22,6 @@ This project is a clone created solely for learning and practice purposes. It is
 Enjoy exploring the Netflix Clone web page! If you have any questions or suggestions, feel free to contact us.
 
 Happy coding! 🚀
+
+
+##DEMO-https://kavyamittal99.github.io/Netflix-clone/
